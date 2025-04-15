@@ -1,0 +1,10 @@
+C:\Users\beatr\Documents\1_ano\DA\Ficha3_GerePessoas\Ficha3_GerePessoas\bin\Debug\Ficha3_GerePessoas.exe.config
+C:\Users\beatr\Documents\1_ano\DA\Ficha3_GerePessoas\Ficha3_GerePessoas\bin\Debug\Ficha3_GerePessoas.exe
+C:\Users\beatr\Documents\1_ano\DA\Ficha3_GerePessoas\Ficha3_GerePessoas\bin\Debug\Ficha3_GerePessoas.pdb
+C:\Users\beatr\Documents\1_ano\DA\Ficha3_GerePessoas\Ficha3_GerePessoas\obj\Debug\Ficha3_GerePessoas.csproj.AssemblyReference.cache
+C:\Users\beatr\Documents\1_ano\DA\Ficha3_GerePessoas\Ficha3_GerePessoas\obj\Debug\Ficha3_GerePessoas.Form1.resources
+C:\Users\beatr\Documents\1_ano\DA\Ficha3_GerePessoas\Ficha3_GerePessoas\obj\Debug\Ficha3_GerePessoas.Properties.Resources.resources
+C:\Users\beatr\Documents\1_ano\DA\Ficha3_GerePessoas\Ficha3_GerePessoas\obj\Debug\Ficha3_GerePessoas.csproj.GenerateResource.cache
+C:\Users\beatr\Documents\1_ano\DA\Ficha3_GerePessoas\Ficha3_GerePessoas\obj\Debug\Ficha3_GerePessoas.csproj.CoreCompileInputs.cache
+C:\Users\beatr\Documents\1_ano\DA\Ficha3_GerePessoas\Ficha3_GerePessoas\obj\Debug\Ficha3_GerePessoas.exe
+C:\Users\beatr\Documents\1_ano\DA\Ficha3_GerePessoas\Ficha3_GerePessoas\obj\Debug\Ficha3_GerePessoas.pdb
